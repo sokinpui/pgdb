@@ -1,3 +1,3 @@
 ```
-wget -O- https://raw.githubusercontent.com/sokinpui/pgdb_setup/install.sh | bash
+wget -O- https://raw.githubusercontent.com/sokinpui/pgdb/refs/heads/main/install.sh | bash
 ```
